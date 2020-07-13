@@ -1,6 +1,10 @@
 # Dheeraj Kotwani 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/@kotwani_dheeraj-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kotwani_dheeraj) [![Linkedin Badge](https://img.shields.io/badge/dheerajkotwani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerajkotwani/) [![Medium Badge](https://img.shields.io/badge/dheeraj.kotwani41-30302f?style=flat&logo=medium)](https://medium.com/@dheeraj.kotwani41)
+[![Twitter Badge](https://img.shields.io/badge/@kotwani_dheeraj-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kotwani_dheeraj)
+[![Linkedin Badge](https://img.shields.io/badge/dheerajkotwani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerajkotwani/)
+[![Medium Badge](https://img.shields.io/badge/dheeraj.kotwani41-30302f?style=flat&logo=medium)](https://medium.com/@dheeraj.kotwani41)
 [![Gmail Badge](https://img.shields.io/badge/dheeraj.kotwani41@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:dheeraj.kotwani41@gmail.com)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=dheerajkotwani.dheerajkotwani)
+
 ---
 ## Hi there 👋,           
 ##### I'm Dheeraj Kotwani, Student at 👨‍💻 JSSATE Noida Pursuing B.Tech.  I am tech enthusiast, I love to build Android Application and currently focusing on Data Structures and Algorithms.  
