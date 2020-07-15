@@ -3,9 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/dheerajkotwani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerajkotwani/)
 [![Medium Badge](https://img.shields.io/badge/dheeraj.kotwani41-30302f?style=flat&logo=medium)](https://medium.com/@dheeraj.kotwani41)
 [![Gmail Badge](https://img.shields.io/badge/dheeraj.kotwani41@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:dheeraj.kotwani41@gmail.com)
-[![HitCount](http://hits.dwyl.com/dheerajkotwani/{project}.svg)](http://hits.dwyl.com/dheerajkotwani/{project})
+[![HitCount](http://hits.dwyl.com/dheerajkotwani/dheerajkotwani.svg)](http://hits.dwyl.com/dheerajkotwani/dheerajkotwani)
 
----
 ## Hi there 👋,           
 ##### I'm Dheeraj Kotwani, Student at 👨‍💻 JSSATE Noida Pursuing B.Tech.  I am tech enthusiast, I love to build Android Application and currently focusing on Data Structures and Algorithms.  
 
@@ -14,9 +13,10 @@
 ## 🧐 About
 - 🏄‍ Android Developer who loves to build Applications.
 - 😄 I usually like to make open source contributions.
-- 🔭 I am currently core team member of DSC JSS and working on Personal Projects.
+- 🤔 I’m looking for help with data structures and algorithms.
+- 🔭 I'm currently core team member of DSC JSS and working on Personal Projects.
 - 🌱 I love to learn new things and ready to help others.
-- 🎨 Fun fact: In my free time, you'll find me listening some music or watching some series.
+- 🎨 Fun fact: In my free time, you'll find me listening music or watching some series.
 - 👯 And Many More...
 
 
