@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/dheerajkotwani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerajkotwani/)
 [![Medium Badge](https://img.shields.io/badge/dheeraj.kotwani41-30302f?style=flat&logo=medium)](https://medium.com/@dheeraj.kotwani41)
 [![Gmail Badge](https://img.shields.io/badge/dheeraj.kotwani41@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:dheeraj.kotwani41@gmail.com)
-[![HitCount](http://hits.dwyl.com/dheerajkotwani/dheerajkotwani.svg)](http://hits.dwyl.com/dheerajkotwani/dheerajkotwani)
 
 ## Hi there 👋,           
 ##### I'm Dheeraj Kotwani, Student at 👨‍💻 JSSATE Noida Pursuing B.Tech.  I am tech enthusiast, I love to build Android Application and currently focusing on Data Structures and Algorithms.  
@@ -25,7 +24,8 @@
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: mail me at [dheeraj.kotwani41@gmail.com](mailto:dheeraj.kotwani41@gmail.com)
 - ⚡ Fun fact: I usually like coding at nights! 
----
+
+[![HitCount](http://hits.dwyl.com/dheerajkotwani/dheerajkotwani.svg)](http://hits.dwyl.com/dheerajkotwani/dheerajkotwani)
 
 <!--
 **dheerajkotwani/dheerajkotwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
