@@ -16,7 +16,7 @@
 - 🏄‍ Android Developer who loves to build Applications.
 - 😄 I usually like to make open source contributions.
 - 🤔 I’m looking for help with data structures and algorithms.
-- 🔭 I'm currently core team member of DSC JSS and working on Personal Projects.
+- 🔭 I'm core team member of DSC JSS.
 - 🌱 I love to learn new things and ready to help others.
 - 🎨 Fun fact: In my free time, you'll find me listening music or watching some series.
 - 👯 And Many More...
@@ -27,6 +27,12 @@
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: mail me at [dheeraj.kotwani41@gmail.com](mailto:dheeraj.kotwani41@gmail.com)
 - ⚡ Fun fact: I usually like coding at nights! 
+
+
+<br>
+
+<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="36" height="36"/>  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> </p>
+
 
 
 <!--
