@@ -1,4 +1,7 @@
-# Dheeraj Kotwani 👨‍💻
+
+<!-- <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/dheerajkotwani/">Dheeraj Kotwani</a>👨‍💻</h1>
+<!-- # Dheeraj Kotwani 👨‍💻 -->
 
 [![Twitter Badge](https://img.shields.io/badge/@kotwani_dheeraj-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kotwani_dheeraj)
 [![Linkedin Badge](https://img.shields.io/badge/dheerajkotwani-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/dheerajkotwani/)
