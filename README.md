@@ -18,7 +18,7 @@
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves building amazing Applications.
-- 👨‍💻 I'm Androd Intern at [Zomato](https://www.zomato.com/).
+- 👨‍💻 I'm Android Intern at [Zomato](https://www.zomato.com/).
 - 😄 I'm Android Lead at [DSCJSS](https://dsc.community.dev/jss-academy-of-technical-education-noida/).
 - 🤔 Looking some help with data structures and algorithms.
 - 🌱 I love to learn new things and ready to help others.
